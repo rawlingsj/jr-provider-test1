@@ -1,3 +1,3 @@
 gcp_project       = ""
-gsm               = false
+gsm               = true
 resource_labels   = { "provider" : "jx" }
